@@ -62,7 +62,7 @@ class Email_Form extends React.Component {
 
      
      emailjs.send(
-      'default_service',
+      'gmail',
       'template_oSZugxrE',
        templateParams,
       'user_kXntuTkx4BfnX3CVoDxv4'
