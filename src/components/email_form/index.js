@@ -46,12 +46,26 @@ class Email_Form extends React.Component {
       subject: subject,
       message_html: message,
      }
+  //    var template_params = {
+  //     "from_name": "from_name_value",
+  //     "from_email": "from_email_value",
+  //     "reply_to": "reply_to_value",
+  //     "to_name": "to_name_value",
+  //     "message_html": "message_html_value"
+  //  }
+   
+  //  var service_id = "default_service";
+  //  var template_id = "template_oSZugxrE";
+  //  emailjs.send(service_id, template_id, template_params);
+
+
+
      
      emailjs.send(
       'gmail',
-      'template_OErNDyFu',
+      'template_oSZugxrE',
        templateParams,
-      'user_64rGh5RuHtigw7paS8NsX'
+      'user_kXntuTkx4BfnX3CVoDxv4'
      )
      .then((result) => {
         this.handleShow();
