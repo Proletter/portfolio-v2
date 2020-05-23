@@ -23,9 +23,9 @@ class Contact extends React.Component {
       <div>
         <Helmet>
                 <meta charSet="utf-8" />
-                <title>Contact | Motasim Foad</title>
-                <link rel="canonical" href="http://motasimfoad.com/contact" />
-                <meta name="description" content="Motasim Foad | Contact - Product Manager | Project Manager | Software Engineer" />
+                <title>Contact | Oluwaseun Ismaila</title>
+                <link rel="canonical" href="http://seun.com.ng/contact" />
+                <meta name="description" content="Oluwaseun Ismaila | Contact - Product Manager | Project Manager | Software Engineer" />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">
           <Particles

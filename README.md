@@ -1,6 +1,6 @@
-##Motasim Foad Portfolio##
+##Oluwaseun Ismaila Portfolio##
 
-Live preview : https://motasimfoad.com
+Live preview : https://seun.com.ng
 
 Technologies used : ReactJS, EmailJS, ParticleJS, Bootstrap
 

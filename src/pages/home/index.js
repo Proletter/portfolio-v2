@@ -25,9 +25,9 @@ function Home() {
       <div>
          <Helmet>
                   <meta charSet="utf-8" />
-                  <title>Home | Motasim Foad</title>
-                  <link rel="canonical" href="http://motasimfoad.com/home" />
-                  <meta name="description" content="Motasim Foad | Home - Product Manager | Project Manager | Software Engineer" />
+                  <title>Home | Oluwaseun Ismaila</title>
+                  <link rel="canonical" href="http://seun.com.ng/home" />
+                  <meta name="description" content="Oluwaseun Ismaila | Home - Product Manager | Project Manager | Software Developer | Frontend Developer" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
             <Particles
