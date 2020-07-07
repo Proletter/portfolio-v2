@@ -15,3 +15,11 @@
   .home-right-footer{
      width: 100%;
   }
+
+  @media only screen and (max-width: 768px) {
+    .home-right-main-img{
+     
+      margin: auto;    
+      display: none;
+  }
+  }

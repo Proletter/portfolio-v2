@@ -39,8 +39,7 @@ class About extends Component {
                 <div class="description rotate">
                   <p>
   
-                    My name is Oluwaseun Ismaila I am a Software developer. I am very passionate about technology and its utilization in the improvement of lives. This part of the website is still under Developent. <a href='../../assets/cv.pdf'>link</a> to my CV
-                    </p>
+                    My name is Oluwaseun Ismaila, a self-taught Software developer. I am very passionate about technology and its utilization in the improvement of lives. This part of the website is still under Developent. I am open to opportunities and if you would like to know more about me you can check out my <a href='https://drive.google.com/file/d/1QjQxuFRPauPw_JNkwQsaUR7GBnccPwOa/view' target="_blank" rel="noopener noreferrer">CV</a>.</p>
                 </div>
               {/* <CV/> */}
               </div>

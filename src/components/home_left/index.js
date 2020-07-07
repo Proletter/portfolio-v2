@@ -12,7 +12,6 @@ import {
   } from "react-router-dom";
 
   function Home_Left() {
-    const text = ['hello', 'hi']
   return (
    <Container className="home-left" >
     <Row className="home-left-main">
@@ -23,10 +22,10 @@ import {
          <h2 className="second_line">
            I am <strong>Oluwaseun Ismaila</strong>
          </h2>
-         <h3 style={{color: '#c1c1c1'}}>Nice to make your acquaintance. I am a
+         <h3 style={{color: '#c1c1c1'}}>Nice to make your acquaintance. I am
          <Typewriter
   options={{
-    strings: ['Frontend Developer.','Mobile App Developer.','Project Manager.','Product Manager.','Tech Enthusiast.','Videogame enthusiast.','Cinephile.','an aspiring fullstack developer'],
+    strings: ['A Frontend Developer.','A Mobile App Developer.','A Project Manager.','A Product Manager.','A Tech Enthusiast.','A Videogame enthusiast.','A Cinephile.','A fullstack developer.'],
     autoStart: true,
     loop: true,
           }}
